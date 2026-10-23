@@ -1,4 +1,4 @@
-//search the target and return the element(maybe wrong check it with gemini)
+//search the target and return the element
 public class ls02{
 	public static void main(String []args){
 		int[] nums={};
