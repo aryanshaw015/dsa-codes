@@ -11,6 +11,5 @@ public class lec10_01 {
             System.out.println(names[i]);
         }
         sc.close();
-    }
-    
+    }    
 }
